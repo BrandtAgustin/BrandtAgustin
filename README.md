@@ -13,7 +13,7 @@ Actualmente estoy desarrollando mis habilidades en **Power BI, Python, SQL y Exc
   Gestión de clientes, ventas y control de stock. Implementación de planillas y análisis de datos para mejorar la eficiencia del negocio.
 
 - **Agente de logística (2022 – Presente)**
-  Gestión de entregas en tiempo real, atención al cliente y optimización de rutas de distribución en entornos de alta demanda.”
+  Gestión de entregas en tiempo real, atención al cliente y optimización de rutas de distribución en entornos de alta demanda.
 
 ---
 
