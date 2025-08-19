@@ -47,4 +47,4 @@ Actualmente estoy desarrollando mis habilidades en **Power BI, Python, SQL y Exc
 
 ✉️ Email: [agustin_brandt@live.com]  
 💼 LinkedIn: [https://www.linkedin.com/in/agust%C3%ADn-brandt-b732141a8/]  
-🌐 Portfolio / GitHub: [https://github.com/BrandtAgustin?tab=repositories]
+🌐 Portafolio / GitHub: [https://github.com/BrandtAgustin?tab=repositories]
